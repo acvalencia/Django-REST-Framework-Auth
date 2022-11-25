@@ -1,0 +1,12 @@
+# Files
+cge
+dist/env/
+src/**/*.pyc
+src/**/*.class
+src/**/*.bak
+src/**/*.env
+src/**/*.log
+src/**/*.csv
+src/**/*.pdf
+src/**/*.xlsx
+src/**/*.zip
